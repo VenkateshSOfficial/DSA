@@ -18,7 +18,7 @@ public class BinarySearchAlgo {
 			} else if (target > arr[mid]) {
 				start = mid + 1;
 			} else {
-				return mid;
+				return arr[mid];
 			}
 		}
 		return -1;
