@@ -1,4 +1,4 @@
-package javaBasics;
+package java_fundamentals.basics;
 
 public class JavaDataTypesPrimitives {
     public static void main(String[] args) {
